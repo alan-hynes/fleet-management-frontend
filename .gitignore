@@ -10,3 +10,4 @@ yarn-error.log*
 *.backup.*
 *.bak.*
 .env
+.env
