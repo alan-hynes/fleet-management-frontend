@@ -11,3 +11,6 @@ yarn-error.log*
 *.bak.*
 .env
 .env
+.env
+node_modules/
+build/
